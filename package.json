@@ -1,0 +1,19 @@
+{
+  "name": "react-scratch",
+  "version": "1.0.0",
+  "description": "This si a react from scratch.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "html"
+  ],
+  "author": "pritika",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.1"
+  }
+}
