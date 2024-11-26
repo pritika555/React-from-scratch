@@ -1,0 +1,8 @@
+7
+51C:\MinGW\include\Desktop\React Scratch\package.json133770259722120024 0
+45C:\MinGW\include\Desktop\React Scratch\App.js133769933406414163 0
+49C:\MinGW\include\Desktop\React Scratch\.gitignore133770260795896530 0
+48C:\MinGW\include\Desktop\React Scratch\readme.md133769934728820114 0
+49C:\MinGW\include\Desktop\React Scratch\index.html133770738672914947 0
+48C:\MinGW\include\Desktop\React Scratch\index.css133769011549041027 0
+56C:\MinGW\include\Desktop\React Scratch\package-lock.json133770259723235118 0
